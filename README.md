@@ -12,7 +12,7 @@ We have two lists of challenges. The first list is the list of JavaScript challe
 
 ## How to submit your solution?
 
-You can submit your solutions by cloning this repository and sending the public repo link to the organizers. Here you can find more information on how to submit your solutions: [Submissions.md](Submission.md).
+You can submit your solutions by cloning this repository and sending the public repo link to the organizers. Here you can find more information on how to submit your solutions: [Submissions.md](Submissions.md).
 
 ## Some rules and what is allowed?
 

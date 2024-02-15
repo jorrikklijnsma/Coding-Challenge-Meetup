@@ -1,4 +1,4 @@
-# scoring
+# Scoring
 
 ## Introduction
 
